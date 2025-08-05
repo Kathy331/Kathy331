@@ -18,7 +18,7 @@
 
 <details>
   <summary><strong>🧰 Languages & Tools</strong></summary>
-  <div style="margin-left: 20px; margin-top: 10px;">
+  <div style="margin-left: 40px; margin-top: 10px;">
 
   <!-- Programming Languages -->
   <h4>👨‍💻 Programming Languages</h4>
