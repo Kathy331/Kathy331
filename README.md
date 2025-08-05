@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **I love origami, and all kind of paper craft!**
 
-<h3 align="left">Connect with me: </h3> <p align="left">
+<p align="left">
+  <strong>Connect with me:</strong>
   <a href="https://www.linkedin.com/in/kathy-chen-swe/" target="_blank">LinkedIn</a>
 </p>
 
