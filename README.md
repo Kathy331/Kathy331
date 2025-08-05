@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
 <h3 align="center"> </h3>
+<p align="left">
+  <strong>Connect with me:</strong>
+  <a href="https://www.linkedin.com/in/kathy-chen-swe/" target="_blank">LinkedIn</a>
+</p>
 
 - 🔭 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
 
@@ -9,10 +13,7 @@
 
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
 
-<p align="left">
-  <strong>Connect with me:</strong>
-  <a href="https://www.linkedin.com/in/kathy-chen-swe/" target="_blank">LinkedIn</a>
-</p>
+
 
 
 
