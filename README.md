@@ -22,7 +22,7 @@
 
   <!-- Programming Languages -->
   <h4>👨‍💻 Programming Languages</h4>
-  <p style="margin-left: 20px;">
+  <p style="margin-right: 20px;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
     </a>
