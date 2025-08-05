@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Kathychen331@outlook.com**
 
-- ⚡ Fun fact **I love origami, and all kind of paper craft!**
+- 𓅪 Fun fact **I love origami, and all kind of paper craft!**
 
 <p align="left">
   <strong>Connect with me:</strong>
