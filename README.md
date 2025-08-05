@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
 <h3 align="center"> </h3>
-- 📫 How to reach me **Kathychen331@outlook.com**
+
 
 - 🔭 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
+- 📫 How to reach me **Kathychen331@outlook.com**
+
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
+
 
 
 
