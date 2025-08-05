@@ -2,7 +2,7 @@
 <h3 align="center"> </h3>
 
 
-- 🔭 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
+- 🌟 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
