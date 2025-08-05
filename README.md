@@ -1,19 +1,6 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
 
 
-<table>
-  <tr>
-    <td>
-      <h1>Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/images/27abf92ecdb4c4a1e2e43868c7e54e44/tenor.gif" alt="Happy Sticker" width="150" />
-    </td>
-  </tr>
-</table>
-<h3 align="center"> </h3>
-
-
 - 🌟 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
