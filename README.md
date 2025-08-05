@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kathy Chen</h1>
+<h1 align="center">Hi 👋, I'm Kathy</h1>
 <h3 align="center"> </h3>
 
 - 🔭 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
