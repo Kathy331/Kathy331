@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
-- 📫 How to reach me **Kathychen331@outlook.com**
-
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
 
 
