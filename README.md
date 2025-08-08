@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
 
 
-- 🌟 I’m currently working on [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
+- 🌟 I’m currently working on my profolio 
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
+- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents) 
+
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
+
+
 
 
 
