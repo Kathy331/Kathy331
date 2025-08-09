@@ -9,7 +9,7 @@
   >
     my portfolio
   </a>
-  .
+.
 </h1>
 
 
