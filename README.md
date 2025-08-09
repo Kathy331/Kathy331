@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1>
 
 
-- 🌟 I’m currently working on my profolio 
+- 🌟 I’m currently working on [my profolio](https://vercel.com/kathy331s-projects/portfolio) 
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
