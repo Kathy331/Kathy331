@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is my [my profolio](https://kathychen-portfolio.vercel.app/) </h1> 
+<h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is </h1> [my profolio](https://kathychen-portfolio.vercel.app/)
 
 
 - 🌟 I’m currently working on [my profolio](https://kathychen-portfolio.vercel.app/) 
