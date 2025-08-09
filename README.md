@@ -1,4 +1,5 @@
-<!-- <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is </h1> [my profolio](https://kathychen-portfolio.vercel.app/) -->
+<h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is </h1> [my profolio](https://kathychen-portfolio.vercel.app/) 
+<!-- 
 <h1 style={{ textAlign: 'center', fontWeight: '600', marginBottom: '1rem' }}>
   Hi, I&apos;m Kathy <span aria-label="happy dance emoji" role="img">٩(^ᗜ^)و</span> , here is
   <a
@@ -11,7 +12,7 @@
   </a>
 .
 </h1>
-
+-->
 
 - 🌟 I’m currently working on [my profolio](https://kathychen-portfolio.vercel.app/) 
 
