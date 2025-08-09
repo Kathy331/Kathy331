@@ -3,9 +3,8 @@
     target="_blank"
     rel="noopener noreferrer"
     style={{ color: '#0070f3', textDecoration: 'none', fontWeight: '700' }}
-  >
-    my portfolio
-  </a> </h1> 
+  > my portfolio </a> 
+</h1> 
 <!-- 
 <h1 style={{ textAlign: 'center', fontWeight: '600', marginBottom: '1rem' }}>
   Hi, I&apos;m Kathy <span aria-label="happy dance emoji" role="img">٩(^ᗜ^)و</span> , here is
