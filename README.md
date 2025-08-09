@@ -20,7 +20,7 @@
 </h1>
 -->
 
-- 🌟 I’m currently working on [my profolio](https://kathychen-portfolio.vercel.app/) 
+- 🌟 I’m currently working on [my portfolio](https://kathychen-portfolio.vercel.app/) 
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
