@@ -6,11 +6,11 @@
   > portfolio </a> 
 </h1> 
 
-- 🌟 I’m currently working on [my portfolio](https://kathychen-portfolio.vercel.app/) 
+- 🌟 I’m currently working on [my portfolio](https://kathychen-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
 
-- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents) 
+- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), [Intelligent Food Management App] (https://github.com/Kathy331/hophack2025-health)
 
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
 
