@@ -129,7 +129,7 @@
 <!-- Project Showcase -->
 <p align="left">
   <b>🚀 Featured Project</b><br><br>
-  <a href="https://github.com/Kathy331/YourProjectRepo">
+  <a href="https://github.com/Kathy331/resume-ai-agents">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathy331&repo=YourProjectRepo&theme=dark" alt="Project card"/>
   </a>
 </p>
