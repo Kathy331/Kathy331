@@ -1,3 +1,5 @@
+
+<!--https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is my  <a
     href="https://kathychen-portfolio.vercel.app/"
     target="_blank"
@@ -13,7 +15,6 @@
 - 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health)
 
 - 𓅪 Fun fact **I love origami, and all kind of paper craft!**
-
 
 
 
@@ -124,5 +125,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathy331&theme=dark" alt="kathy331" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&locale=en&layout=compact" alt="kathy331" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathy331&show_icons=true&locale=en" alt="kathy331" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathy331&" alt="kathy331" /></p>
 
 
