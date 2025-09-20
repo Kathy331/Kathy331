@@ -126,12 +126,11 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathy331&theme=dark" alt="kathy331" /></p> --> 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="kathy331" />
-</p>
-
 <p align="left">
   <b>🚀 Featured Project</b><br><br>
+  <a href="https://github.com/Kathy331/resume-ai-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathy331&repo=resume-ai-agents&theme=dark" alt="resume-ai-agents project card"/>
+  </a>
   <a href="https://github.com/Kathy331/resume-ai-agents">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathy331&repo=resume-ai-agents&theme=dark" alt="resume-ai-agents project card"/>
   </a>
