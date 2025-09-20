@@ -140,14 +140,13 @@
 
 
 
-<!-- Status + Languages/Tools side by side -->
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" height="200"/>
     </td>
-    <td>
+    <td valign="top">
       <!-- Languages & Tools -->
       <h3>🧰 Languages & Tools</h3>
       <p>
@@ -183,6 +182,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
