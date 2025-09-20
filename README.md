@@ -39,6 +39,9 @@
   <a href="https://github.com/Kathy331/resume-ai-agents">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathy331&repo=resume-ai-agents&theme=dark" alt="resume-ai-agents project card"/>
   </a>
+      <a href="https://github.com/Kathy331/resume-ai-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathy331&repo=resume-ai-agents&theme=dark" alt="resume-ai-agents project card"/>
+  </a>
 </p>
 
 <!--language and tool-->
