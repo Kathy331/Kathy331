@@ -142,8 +142,6 @@
 
 <!-- Side by side without table -->
 <p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" height="200" style="margin-right: 20px;" align="left"/>
 
   <!-- Languages & Tools -->
   <h3>🧰 Languages & Tools</h3>
@@ -177,6 +175,10 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"/>
   </p>
+
+    <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" height="200" style="margin-right: 20px;" align="left"/>
+
 </p>
 
 
