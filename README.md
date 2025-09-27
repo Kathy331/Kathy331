@@ -8,9 +8,9 @@
   > portfolio </a> 
 </h1> 
 
-- 🌟 I’m currently working on [my portfolio](https://kathychen-portfolio.vercel.app/)
+- 🌟 I’m currently working as Full Stack Engineer with [App Dev Club](https://appdevclub.com/) on the Amazon Kuiper Project
 
-- 🌱 I’m currently learning **LangChain, Vector DB (pinecones)**
+- 🌱 I’m currently learning **leaflet maps and arcgis js**
 
 - 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health)
 
