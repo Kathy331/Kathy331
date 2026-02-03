@@ -8,7 +8,7 @@
   > portfolio </a> 
 </h1> 
 
-- 🌟 I’m currently working as a Full Stack Engineer with [Amazon Project Leo x App Dev Club](https://appdevclub.com/)
+- 🌟 I’m currently working as a Full Stack Engineer with [App Dev Club](https://appdevclub.com/)
 
 - 🌱 I’m currently learning **leaflet maps and arcgis js**
 
