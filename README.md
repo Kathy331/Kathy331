@@ -28,7 +28,7 @@
     </li>
   </ul>
 
-  <h4>👨‍💻 Mobile Apps</h4>
+  <h4> 📱 Mobile Apps</h4>
   <ul>
     <li>
       <a href="https://github.com/Kathy331/hophack2025-health">
@@ -37,7 +37,7 @@
     </li>
   </ul>
 
-  <h4>📚 Game</h4>
+  <h4>🎮 Game</h4>
   <ul>
     <li>
       <a href="https://catalyst-team.itch.io/cataclyst">
