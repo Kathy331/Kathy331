@@ -12,31 +12,28 @@
 
 - 🌱 I’m currently learning **leaflet maps and arcgis js**
 
-- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), 
-
-- 🟧 Older Projects: [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+- 🦋 Recently finished 
 
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
 
 <details>
-    
 
   <summary><strong> 🟧 Older Projects </strong></summary>
-  <div style="margin-left: 400px; margin-top: 10px;">
+  <div style="margin-left: 40px; margin-top: 10px;">
+
+    <!-- Web App -->
+  <h4>    👨‍💻 Mobile Apps </h4>
+  - [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
 
   <!-- Mobile -->
   <h4>    👨‍💻 Mobile Apps </h4>
-  - [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+  - [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health)
+  
 
-
-  <!-- Frameworks & Libraries -->
-  <h4>    📚 Frameworks & Libraries</h4>
-  <p style="margin-left: 20px;">
-
-  </p>
-
-
+  <!-- Game -->
+  <h4>    📚 Game </h4>
+  - [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
 
   </div>
 </details>
