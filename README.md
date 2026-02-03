@@ -19,8 +19,11 @@
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
 
+<details>
+    
+
   <summary><strong> 🟧 Older Projects </strong></summary>
-  <div style="margin-left: 40px; margin-top: 10px;">
+  <div style="margin-left: 400px; margin-top: 10px;">
 
   <!-- Mobile -->
   <h4>    👨‍💻 Mobile Apps </h4>
@@ -36,7 +39,7 @@
 
 
   </div>
-
+</details>
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KathyChen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KathyChen" /></a></p><br><br>
