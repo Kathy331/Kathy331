@@ -25,9 +25,8 @@
 
   <!-- Mobile -->
   <h4>    👨‍💻 Mobile Apps </h4>
-  <p style="margin-left: 20px;">
-    [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
-  </p>
+  - [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+
 
   <!-- Frameworks & Libraries -->
   <h4>    📚 Frameworks & Libraries</h4>
