@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **leaflet maps and arcgis js**
 
-- 🦋 Recently finished [Airport Boundary Generator](https://appdevclub.com/projects/amazon-fall-25/) with [Amazon Project Leo x App Dev Club](https://appdevclub.com/)
+- 🦋 Recently finished [Airport Boundary Generator](https://appdevclub.com/projects/amazon-fall-25/) for [Amazon Project Leo x App Dev Club](https://appdevclub.com/)
 
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
