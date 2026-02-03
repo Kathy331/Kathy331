@@ -8,16 +8,37 @@
   > portfolio </a> 
 </h1> 
 
-- 🌟 I’m currently working as Full Stack Engineer with [App Dev Club](https://appdevclub.com/) on the Amazon Kuiper Project
+- 🌟 I’m currently working as Full Stack Engineer with [App Dev Club](https://appdevclub.com/) on the [Amazon Leo Project](https://appdevclub.com/projects/amazon-fall-25/)
 
 - 🌱 I’m currently learning **leaflet maps and arcgis js**
 
-- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health)
+- 🦋 Recently finished [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents), 
 
-- 𓅪 Fun fact **I love origami, and all kind of paper craft!**
+- 🟧 Older Projects: [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+
+- 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
+
+
+<details>
+  <summary><strong> 🟧 Older Projects </strong></summary>
+  <div style="margin-left: 40px; margin-top: 10px;">
+
+  <!-- Mobile -->
+  <h4>👨‍💻 Mobile Apps </h4>
+  <p style="margin-left: 20px;">
+    [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health), [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+  </p>
+
+  <!-- Frameworks & Libraries -->
+  <h4>📚 Frameworks & Libraries</h4>
+  <p style="margin-left: 20px;">
+
+  </p>
 
 
 
+  </div>
+</details>
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KathyChen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KathyChen" /></a></p><br><br>
