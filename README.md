@@ -16,27 +16,38 @@
 
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
-
 <details>
-
   <summary><strong> 🟧 Older Projects </strong></summary>
-  <div style="margin-left: 40px; margin-top: 10px;">
 
-    <!-- Web App -->
-  <h4>    👨‍💻 Mobile Apps </h4>
-  - [Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)
+  <h4>👨‍💻 Web App</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Kathy331/resume-ai-agents">
+        Interview Prep AI Agent
+      </a>
+    </li>
+  </ul>
 
-  <!-- Mobile -->
-  <h4>    👨‍💻 Mobile Apps </h4>
-  - [Intelligent Food Management App](https://github.com/Kathy331/hophack2025-health)
-  
+  <h4>👨‍💻 Mobile Apps</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/Kathy331/hophack2025-health">
+        Intelligent Food Management App
+      </a>
+    </li>
+  </ul>
 
-  <!-- Game -->
-  <h4>    📚 Game </h4>
-  - [CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)
+  <h4>📚 Game</h4>
+  <ul>
+    <li>
+      <a href="https://catalyst-team.itch.io/cataclyst">
+        CATaclyst: Platforming Game
+      </a>
+    </li>
+  </ul>
 
-  </div>
 </details>
+
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KathyChen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KathyChen" /></a></p><br><br>
