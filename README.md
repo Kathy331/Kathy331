@@ -120,9 +120,12 @@
   </div>
 </details>
 <!--status -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="kathy331" /></p> 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="kathy331" /></p>  -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathy331&theme=dark" alt="kathy331" /></p> 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathy331&theme=dark" alt="kathy331" /></p> -->
+
+
 
 <!-- 
 <p align="left">
