@@ -69,7 +69,7 @@
 <!--language and tool-->
 
 <details>
-  <summary><strong>🧰 Languages & Tools</strong></summary>
+  <summary><strong>⛏ Languages & Tools</strong></summary>
   <div style="margin-left: 40px; margin-top: 10px;">
 
   <!-- Programming Languages -->
