@@ -17,7 +17,7 @@
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
 <details>
-  <summary><strong> 🟧 Older Projects </strong></summary>
+  <summary><strong> ‼️ Older Projects </strong></summary>
 
   <h4>👨‍💻 Web App</h4>
   <ul>
