@@ -19,7 +19,7 @@
 <details>
   <summary><strong> ‼️ Older Projects </strong></summary>
 
-  <h4>👨‍💻 Web App</h4>
+  <h4> -- Web App -- </h4>
   <ul>
     <li>
       <a href="https://github.com/Kathy331/resume-ai-agents">
@@ -33,7 +33,7 @@
     </li>
   </ul>
 
-  <h4> 📱 Mobile Apps</h4>
+  <h4> -- Mobile Apps -- </h4>
   <ul>
     <li>
       <a href="https://github.com/Kathy331/hophack2025-health">
@@ -48,7 +48,7 @@
       
   </ul>
 
-  <h4>🎮 Game</h4>
+  <h4> -- Game -- </h4>
   <ul>
     <li>
       <a href="https://catalyst-team.itch.io/cataclyst">
