@@ -182,7 +182,10 @@
   </a>
 </p> --> 
 
-last updated Feb 4th, 2026
+<p align="right">
+  <sub><i>Last updated: Feb 4, 2026</i></sub>
+</p>
+
 
 
 
