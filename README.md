@@ -69,11 +69,11 @@
 <!--language and tool-->
 
 <details>
-  <summary><strong>⛏ Languages & Tools</strong></summary>
+  <summary><strong>🛠️ Languages & Tools</strong></summary>
   <div style="margin-left: 40px; margin-top: 10px;">
 
   <!-- Programming Languages -->
-  <h4>👨‍💻 Programming Languages</h4>
+  <h4>Programming Languages:   </h4>
   <p style="margin-left: 20px;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -99,7 +99,7 @@
   </p>
 
   <!-- Frameworks & Libraries -->
-  <h4>📚 Frameworks & Libraries</h4>
+  <h4>Frameworks & Libraries:   </h4>
   <p style="margin-left: 20px;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
@@ -125,7 +125,7 @@
   </p>
 
   <!-- Databases -->
-  <h4>🗄️ Databases</h4>
+  <h4>Databases:  </h4>
   <p style="margin-left: 20px;">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
@@ -139,7 +139,7 @@
   </p>
 
   <!-- DevOps & Tools -->
-  <h4>🛠️ Tools & DevOps</h4>
+  <h4>Tools & DevOps:   </h4>
   <p style="margin-left: 20px;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
