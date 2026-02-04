@@ -35,6 +35,12 @@
         Intelligent Food Management App
       </a>
     </li>
+    <li>
+      <a href="https://github.com/sophp516/SEEDS">
+        Dineable: campus dining social app
+      </a>
+    </li>
+      
   </ul>
 
   <h4>🎮 Game</h4>
