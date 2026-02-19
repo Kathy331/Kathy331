@@ -10,7 +10,7 @@
 
 - 🌟 I’m currently working as a Full Stack Engineer with [App Dev Club](https://appdevclub.com/)
 
-- 🌱 I’m currently learning **leaflet maps and arcgis js**
+- 🌱 I’m currently learning **Geo Spatial Algorithms: Point in Polygon, Convex Hull...etc**
 
 - 🦋 Recently finished [Airport Boundary Generator](https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing) for [Amazon Project Leo x App Dev Club](https://appdevclub.com/projects/amazon-fall-25/)
 
