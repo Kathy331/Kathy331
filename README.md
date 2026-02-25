@@ -48,7 +48,7 @@
     <li>
       <a href="https://github.com/Kathy331/hophack2025-health">
         Intelligent Food Management App
-      </a>
+      </a> : help you to track how much money and food you have saved through the app, reminders to remind you to eat food that is going to expire, an AI image and receipt analyzer to easily upload and keep track of the freshness of your food. Worked on "YouTube to recipe generator".
     </li>
     <li>
       <a href="https://github.com/sophp516/SEEDS">
