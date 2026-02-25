@@ -29,8 +29,7 @@
     <li>
       <a href="https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing">
         Airport Boundary Generator 
-      </a> : An application that can generate multiple airport exclusion zones from Lat/Long coordinate input. Help to identify airports' safe operating zones, helping satellite networks and legal teams to comply with safety regulations near airports. Worked on Backend API connection with AWS S3 and real-time polygon and buffer resizing.
-
+      </a> : An application that can generate multiple airport exclusion zones from Lat/Long coordinate input. Help to identify airports' safe operating zones, helping satellite networks and legal teams to                 comply with safety regulations near airports. Worked on Backend API connection with AWS S3 and real-time polygon and buffer resizing.
     </li>
     <li>
       <a href="https://github.com/RohanChintakindi/ironsite-spatial">
