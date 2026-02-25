@@ -24,7 +24,7 @@
     <li>
       <a href="https://github.com/Kathy331/resume-ai-agents">
         Interview Prep AI Agent
-      </a>
+      </a> : AI system to auto generate interview prep guides with citation tracking, LinkedIn matching, and role-specific prep guide. Worked on AI deep research feedback loops with OpenAI GPT with confidence scoring to improve LinkedIn matching and company information accuracy. Implemented local SQLite memory for tracking past interviews.
     </li>
     <li>
       <a href="https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing">
