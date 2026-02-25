@@ -48,12 +48,12 @@
     <li>
       <a href="https://github.com/Kathy331/hophack2025-health">
         Intelligent Food Management App
-      </a> : help you to track how much money and food you have saved through the app, reminders to remind you to eat food that is going to expire, an AI image and receipt analyzer to easily upload and keep track of the freshness of your food. Worked on "YouTube to recipe generator".
+      </a> : help you to track how much money and food you have saved through the app, reminders for you to eat food that is going to expire, an AI image and receipt analyzer to easily upload and keep track of the freshness of your food. Worked on "YouTube to recipe generator".
     </li>
     <li>
       <a href="https://github.com/sophp516/SEEDS">
         Dineable: campus dining social app
-      </a>
+      </a> : Dineable provides students with a platform to share their dining experiences and helps them make informed choices about which dining options they choose, allowing them to find healthy, tasty food that matches their dietary preferences. Worked on integrating Cloud Firestore to implement backend services. Built an optimized multi-criteria filter.
     </li>
       
   </ul>
