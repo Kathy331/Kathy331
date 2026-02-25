@@ -39,7 +39,7 @@
     <a href="https://devpost.com/software/ironvision?ref_content=my-projects-tab&ref_feature=my_projects">
         Dev Post
       </a>
-        ] :  turns first person pov body cam footage into a structured 3D intelligence layer for construction sites. automatically detects workers, tools, and PPE, reconstructs the scene in 3D, builds a spatial knowledge graph, and delivers productivity and safety reports.
+        ] :  turns first person pov body cam footage into a structured 3D intelligence layer for construction sites. automatically detects workers, tools, and PPE, reconstructs the scene in 3D, builds a spatial knowledge graph, and delivers productivity and safety reports. Worked on the VGGT-X to the Spatial Graph Layer
     </li>
   </ul>
 
