@@ -151,7 +151,6 @@
   </p>
 
   <!-- DevOps & Tools -->
-<!-- 
 <h4>Tools & DevOps:   </h4>
   <p style="margin-left: 20px;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -173,7 +172,6 @@
 
   </div>
 </details> 
--->
 
 
 <!--status -->
