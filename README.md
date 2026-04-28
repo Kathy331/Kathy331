@@ -151,7 +151,8 @@
   </p>
 
   <!-- DevOps & Tools -->
-  <h4>Tools & DevOps:   </h4>
+<!-- 
+<h4>Tools & DevOps:   </h4>
   <p style="margin-left: 20px;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
@@ -171,7 +172,10 @@
   </p>
 
   </div>
-</details>
+</details> 
+-->
+
+
 <!--status -->
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathy331&show_icons=true&theme=dark&locale=en&layout=compact" alt="kathy331" /></p>  -->
