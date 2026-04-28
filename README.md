@@ -18,6 +18,76 @@
 
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
+
+
+
+<!---------NEW ------------->
+
+<details>
+  <summary><strong>📂 Older Projects </strong></summary>
+  <br>
+
+  ### 🌐 Web Apps
+  * **[Interview Prep AI Agent](https://github.com/Kathy331/resume-ai-agents)**: AI system to auto-generate interview prep guides with citation tracking, LinkedIn matching, and role-specific prep. Engineered AI deep research feedback loops with OpenAI GPT using confidence scoring to improve accuracy. Implemented local SQLite memory for tracking past interviews.
+  * **[Airport Boundary Generator](https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing)**: An application that generates multiple airport exclusion zones from Lat/Long coordinate input. Helps satellite networks and legal teams comply with safety regulations. Worked on Backend API connection with AWS S3 and real-time polygon/buffer resizing.
+  * **[IronVision: Spatial Intelligence for Construction Sites](https://github.com/RohanChintakindi/ironsite-spatial)** | **[DevPost](https://devpost.com/software/ironvision?ref_content=my-projects-tab&ref_feature=my_projects)**: Turns first-person body cam footage into a structured 3D intelligence layer for construction sites. Automatically detects workers, tools, and PPE, reconstructs the scene in 3D, and delivers safety reports. Worked on the VGGT-X to the Spatial Graph Layer.
+
+  ### 📱 Mobile Apps
+  * **[Intelligent Food Management App (Gobble)](https://github.com/Kathy331/hophack2025-health)**: Helps track food inventory and savings with reminders for expiring food. Features an AI image and receipt analyzer to easily upload and track freshness. Built the "YouTube to recipe generator."
+  * **[Dineable: Campus Dining Social App](https://github.com/sophp516/SEEDS)**: Provides students with a platform to share dining experiences and find healthy food that matches their dietary preferences. Integrated Cloud Firestore backend services and built an optimized multi-criteria filter.
+
+  ### 🎮 Games
+  * **[CATaclyst: Platforming Game](https://catalyst-team.itch.io/cataclyst)**: Potion-mixing microgame published on itch.io for the UMD Game Development Club's WizardWare collab.
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>🛠️ Languages & Tools</strong></summary>
+  <br>
+
+  **👨‍💻 Programming Languages** <br>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
+  
+  <br><br>
+
+  **📚 Frameworks & Libraries** <br>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a> &nbsp;
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" /></a> &nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a> &nbsp;
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a> &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
+
+  <br><br>
+
+  **🗄️ Databases** <br>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a> &nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
+
+  <br><br>
+
+  **⚙️ Tools & DevOps** <br>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a> &nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" /></a>
+
+</details>
+
+
+
+<!---------NEW ------------->
 <details>
   <summary><strong> ‼️ Older Projects </strong></summary>
 
