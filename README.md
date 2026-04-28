@@ -1,14 +1,17 @@
 <!-- 
 #TODO: need to add APP DEV NEW PROJECT 
 -->
-<!--https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is my  <a
+
+<!-- <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و here is my  <a
     href="https://kathychen-portfolio.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     style={{ color: '#0070f3', textDecoration: 'none', fontWeight: '700' }}
   > portfolio </a> 
-</h1> 
+</h1>  -->
+
+<h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1> 
+
 
 - 🌟 I’m currently working as a Full Stack Engineer with [App Dev Club](https://appdevclub.com/)
 
