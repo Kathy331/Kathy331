@@ -13,11 +13,11 @@
 <h1 align="center">Hi, I'm Kathy ٩(^ᗜ^ )و </h1> 
 
 
-- 🌟 I’m currently working as a Full Stack Engineer with [App Dev Club](https://appdevclub.com/)
+- 🌟 I’m currently working as a Software Engineer at [CISESS x NOAA](https://cisess.umd.edu/outreach/students-page/)
 
 - 🌱 I’m currently learning **Geo Spatial Algorithms: Convex Hull, Delaunay Triangulation...etc**
 
-- 🦋 Recently finished [Airport Boundary Generator](https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing) for [Amazon Project Leo x App Dev Club](https://appdevclub.com/projects/amazon-fall-25/)
+- 🦋 Recently finished [Space Topic and Prediction Tracker](https://drive.google.com/file/d/1ATEM6bV04dOmnya_v5lFJy8gH0FGbfVJ/view?usp=sharing) for [Amazon Project Leo x App Dev Club](https://appdevclub.com/projects/amazon-fall-25/)
 
 - 𓅪 Fun fact **I love origami, and all kinds of paper craft!**
 
@@ -148,7 +148,7 @@
 </p> --> 
 
 <p align="right">
-  <sub><i>Last updated: Feb 25, 2026</i></sub>
+  <sub><i>Last updated: June 2, 2026</i></sub>
 </p>
 
 
