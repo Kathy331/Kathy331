@@ -29,6 +29,11 @@
   <h4> -- Web App -- </h4>
   <ul>
     <li>
+      <a href="https://drive.google.com/file/d/1ATEM6bV04dOmnya_v5lFJy8gH0FGbfVJ/view?usp=sharing">
+        Space Topic and Prediction Tracker 
+      </a> : A platform that ingests cross sphere documents and surfaces topics with a multi dimensional relevance score, then predicts which topics will grow over the future upcoming months.
+    </li>
+    <li>
       <a href="https://github.com/Kathy331/resume-ai-agents">
         Interview Prep AI Agent
       </a> : AI system to auto generate interview prep guides with citation tracking, LinkedIn matching, and role specific prep guide. Worked on AI deep research feedback loops with OpenAI GPT with confidence scoring to improve LinkedIn matching and company information accuracy. Implemented local SQLite memory for tracking past interviews.
@@ -36,7 +41,7 @@
     <li>
       <a href="https://drive.google.com/file/d/1xG3LZiw17LCeVJ97GHVG1-88Wo1p31IW/view?usp=sharing">
         Airport Boundary Generator 
-      </a> : An application that can generate multiple airport exclusion zones from Lat/Long coordinate input. Help to identify airports' safe operating zones, helping satellite networks and legal teams to                 comply with safety regulations near airports. Worked on Backend API connection with AWS S3 and real-time polygon and buffer resizing.
+      </a> : An application that can generate multiple airport exclusion zones from Lat/Long coordinate input. Help to identify airports' safe operating zones, helping satellite networks and legal teams to comply with safety regulations near airports. Worked on Backend API connection with AWS S3 and real-time polygon and buffer resizing.
     </li>
     <li>
       <a href="https://github.com/RohanChintakindi/ironsite-spatial">
