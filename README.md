@@ -19,7 +19,7 @@
 
 - 🦋 Recently finished [Space Topic and Prediction Tracker](https://drive.google.com/file/d/1ATEM6bV04dOmnya_v5lFJy8gH0FGbfVJ/view?usp=sharing) for [Amazon Project Leo x App Dev Club](https://appdevclub.com/projects/amazon-fall-25/)
 
-- 𓅪 Fun fact My Favorite things to do right now is **scrapbooking** !
+- 𓅪 Fun fact My Favorite things to do right now is **scrapbooking**!
 
 
 
